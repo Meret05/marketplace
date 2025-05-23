@@ -10,6 +10,7 @@ resources/views/components/**.blade.php linguist-detectable=false
 resources/views/auth/**.blade.php linguist-detectable=false
 resources/views/profile/**.blade.php linguist-detectable=false
 resources/views/layouts/**.blade.php linguist-detectable=false
+resources/views/livewire/**.blade.php linguist-detectable=false
 
 /.github export-ignore
 CHANGELOG.md export-ignore
